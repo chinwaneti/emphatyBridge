@@ -38,7 +38,7 @@ const LogInDoctor = () => {
         return;
       }
   
-      route('/doctorProfile');  
+      route('/connectPage');  
   
     } catch (error) {
       console.error('Error:', error.message);
